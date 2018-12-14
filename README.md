@@ -1,2 +1,3 @@
 # INST126-final-project
-Final projet for INST126 about data analysis
+Beginner Data Analysis project
+Determines if chosen day to best to ride a bike based on tempurature
